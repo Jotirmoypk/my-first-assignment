@@ -1,0 +1,216 @@
+
+.open-sans-igris {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+/* header */
+.hero{margin-top: 0px;}
+
+
+/* nav styles */
+nav{
+    margin-top: 0px;
+    display: flex;
+}
+.nav-title{
+    font-weight: 750;
+    font-size: 35px;
+}
+/* shared style  */
+.first{
+    color: #5d58e7;
+}
+.second{
+    color:#514f94
+
+}
+
+.btn-primary{
+    background-color: #4E47FF;
+    font-size: medium;
+    font-weight: bold;
+    padding: 10px 30px;
+    color: aliceblue;
+    border-radius: 5px;
+    font:size; 40px;
+}
+
+nav {
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 70px;
+}
+nav li{
+    list-style: none;
+}
+
+.top-middle{font-style: italic;}
+   .banner-content{
+        margin-top: 198px;
+        
+        text-align: center;
+    }
+    /* hero background */
+    .hero{
+        background-image: url(../images/Hero-bg.png);
+        background-repeat: no-repeat;
+        background-size: 1440px;
+        height: 698px;
+        
+    }
+    .zero{
+        color: #5b5b63;
+    }
+    .one{
+        font-weight: bold;
+        font-size: 30px;
+    }
+    
+ .action{
+        display: flex;
+        justify-content: space-between;
+        align-content: center;
+        margin-left: 200px;
+        margin-right: 200px;
+        
+
+
+    }
+
+    .inform{
+        display: flex;
+        gap: 200px;
+        padding: 150px 150px;
+        width: 80%;
+        background-color: #d3e8fc;
+        
+    }
+    .leftside{
+        font-size: xx-large;
+        font-weight: 700;
+        font-style: oblique;
+        margin-left: 150px;
+
+    }
+    .rightside{
+        display: block;
+        margin-right: 150px;
+        
+     }
+      .rightside input[type="text"],input[type="email"],input[type="message"],.rightside textarea
+      {
+        height: 24px;
+        border-radius: 5px;
+        background-color: white;
+        width: 100%;
+        display:block;
+        padding:10px 20px;
+        margin: 10px;
+
+    
+
+        
+
+    }
+
+    .productive{
+        background-color: #c4cbfc;
+        height: 300px;
+        border-radius: 10px;
+        margin-left: 150px;
+        margin-right: 150px;
+    }
+
+    .joined{
+        font-size: 30px;
+        width: 856px;
+        height: 35px;
+        align-items: center;
+        margin-top: 100px;
+        margin-bottom: 2px;
+        margin-left: 300px;
+        padding-top: 40px;
+    }
+
+    .users{
+         display: flex;
+         margin: 50px;
+         align-items: center;
+         justify-content: space-between;
+         margin-left: 270px;
+         margin-right: 300px;
+         gap: 100px;
+         margin bottom: 20px;
+         
+    }
+    .headuser{
+        font-size: 60px;
+        font-weight: 900;
+        color: #4E47FF;
+        margin-top: 2px;
+        margin-bottom: 5px;
+    }
+       .lightfont{
+
+        color: #44444e;
+       }
+    .ready{
+        font-size: 35px;
+       font-weight: 700;
+    }
+
+    .subscribe{
+        background-color: #d9e3e6;
+        align-content: center;
+        justify-content: center;
+        margin-left: 150px;
+        margin-right: 150px;
+        border-radius: 5px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+.better{
+    margin-left: 390px;
+}
+.free{
+    margin-left: 450px;
+}
+.wc-big{
+    margin-left: 130px;
+    margin-top: 10px;
+    padding-bottom: 30px;
+    border-radius: 5px;
+    padding-left: 15px;
+
+    
+}
+.logo{
+    font-size: 50px;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+
+.lastpara{
+    color: #44444e;
+    margin-left: 450px;
+    margin-right: 450px;
+    align-items: center;
+    padding-left: 30px;
+    align-content: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.link li{
+    text-decoration: none;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 20px;
+}
